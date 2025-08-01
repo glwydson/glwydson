@@ -1,7 +1,9 @@
 # Opa tudo bem? Me chamo Glaydson de Oliveira
 
-🎓 Graduando em Engenharia Eletrônica pela **UEA**  atualmente no 6° período
-💻 Estudante de Análise e Desenvolvimento de Sistemas pela **Anhanguera**  atualmente no 2° período
+🎓 Graduando em Engenharia Eletrônica pela **UEA**  atualmente no 6° período 
+
+💻 Estudante de Análise e Desenvolvimento de Sistemas pela **Anhanguera**  atualmente no 2° período 
+
 🔧 Atualmente usando **Python** e **C/C++** para **back-end** 
 
 ---
@@ -15,10 +17,15 @@ Sou entusiasta da tecnologia e estou sempre em busca de novos desafios. Atualmen
 ## 🛠️ Tecnologias que uso
 
 - 🐍 Python
+- 
 - 💻 C / C++
+  
 - 🐧 Linux (Zorin OS)
+  
 - 🗃️ Git & GitHub
+  
 - 🧪 Testes automatizados
+  
 - 🛠️ Ferramentas de produtividade e automação
 
 ---
@@ -26,8 +33,11 @@ Sou entusiasta da tecnologia e estou sempre em busca de novos desafios. Atualmen
 ## 📂 Repositórios em destaque
 
 | Projeto | Descrição | Linguagem |
+
 |--------|-----------|-----------|
+
 | Sistema_Cadastro_Cliente | Sistema simples de cadastro de clientes | Python |
+
 | consulte *(privado)* | Consulta otimizada de dados em campo | Python |
 
 ---
