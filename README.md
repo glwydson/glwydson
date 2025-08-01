@@ -17,7 +17,7 @@ Sou entusiasta da tecnologia e estou sempre em busca de novos desafios. Atualmen
 ## 🛠️ Tecnologias que uso
 
 - 🐍 Python
-- 
+  
 - 💻 C / C++
   
 - 🐧 Linux (Zorin OS)
