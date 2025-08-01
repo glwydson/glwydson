@@ -1,7 +1,7 @@
-# 👋 Olá, eu sou Glaydson de Oliveira Araújo
+# Opa tudo bem? Me chamo Glaydson de Oliveira
 
-🎓 Graduando em Engenharia Eletrônica pela **UEA**  
-💻 Estudante de Análise e Desenvolvimento de Sistemas pela **Anhanguera**  
+🎓 Graduando em Engenharia Eletrônica pela **UEA**  atualmente no 6° período
+💻 Estudante de Análise e Desenvolvimento de Sistemas pela **Anhanguera**  atualmente no 2° período
 🔧 Atualmente usando **Python** e **C/C++** para **back-end** 
 
 ---
