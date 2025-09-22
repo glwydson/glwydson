@@ -2,7 +2,7 @@
 
 🎓 Graduando em Engenharia Eletrônica pela **UEA**  atualmente no 6° período 
 
-💻 Estudante de Análise e Desenvolvimento de Sistemas pela **Anhanguera**  atualmente no 2° período 
+💻 Estudante de Ciência da Computação pela **Anhanguera**  atualmente no 1° período 
 
 🔧 Atualmente usando **Python** e **C/C++** para **back-end** 
 
