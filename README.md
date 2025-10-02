@@ -20,7 +20,7 @@ Sou entusiasta da tecnologia e estou sempre em busca de novos desafios. Atualmen
   
 - 💻 C / C++
   
-- 🐧 Linux (Zorin OS)
+- 🐧 Linux (Zorin OS, Xubuntu)
   
 - 🗃️ Git & GitHub
   
