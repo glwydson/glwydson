@@ -1,10 +1,10 @@
 # Opa tudo bem? Me chamo Glaydson de Oliveira
 
-🎓 Graduando em Engenharia Eletrônica pela **UEA**  atualmente no 6° período 
+🎓 Graduando em Engenharia Eletrônica pela **UEA**  atualmente no 7° período 
 
-💻 Estudante de Ciência da Computação pela **Anhanguera**  atualmente no 1° período 
+💻 Estudante de Ciência da Computação pela **Anhanguera**  atualmente no 2° período 
 
-🔧 Atualmente usando **Python** e **C/C++** para **back-end** 
+🔧 Atualmente usando **Python** e **C/C++** e **Node.js** para **back-end** 
 
 ---
 
@@ -20,7 +20,7 @@ Sou entusiasta da tecnologia e estou sempre em busca de novos desafios. Atualmen
   
 - 💻 C / C++
   
-- 🐧 Linux (Zorin OS, Xubuntu)
+- 🐧 Linux (Ubuntu, Xubuntu)
   
 - 🗃️ Git & GitHub
   
