@@ -45,7 +45,7 @@ Sou entusiasta da tecnologia e estou sempre em busca de novos desafios. Atualmen
 ## 📫 Como me encontrar
 
 - GitHub: [@glywdson](https://github.com/glwydson)
-- LinkedIn: [@Glaydson_Oliviera](https://www.linkedin.com/in/glaydson-araujom-ama/)
+- LinkedIn: [@Glaydson_Oliviera](www.linkedin.com/in/glwydson)
 
 ---
 
