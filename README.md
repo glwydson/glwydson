@@ -1,64 +1,55 @@
-# 👋 Olá! Eu sou Glaydson de Oliveira
-
 <div align="center">
 
-![GitHub followers](https://img.shields.io/github/followers/glwydson?style=social)
-![GitHub User's stars](https://img.shields.io/github/stars/glwydson?style=social)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/glwydson)
+# 👋 Glaydson de Oliveira
+
+**Backend Developer** 🇧🇷
+
+[![GitHub followers](https://img.shields.io/github/followers/glwydson?style=social)](https://github.com/glwydson)
 
 </div>
 
-Desenvolvedor focado em **back-end**, automação e análise de dados, com experiência prática em Python e JavaScript (Node.js).
+## 🚀 Projetos em destaque
 
-## 👨‍🎓 Formação
-- 🎓 Engenharia Eletrônica (UEA) — 7º período
-- 💻 Ciência da Computação (Anhanguera) — 2º período
+### ✨ **ROTA-SPI**
+[![ROTA-SPI](https://github-readme-stats.vercel.app/api/pin/?username=glwydson&repo=ROTA-SPI&theme=radical&bg_color=0D1117)](https://github.com/glwydson/ROTA-SPI)
+**Spring Boot + PostgreSQL + Node.js** - Aplicação web robusta
 
-## 🧰 Stack
+### 📅 **Cronograma de Treinos**
+[![Cronograma-Treinos](https://github-readme-stats.vercel.app/api/pin/?username=glwydson&repo=cronograma-treinos&theme=radical&bg_color=0D1117)](https://github.com/glwydson/cronograma-treinos)
+**Node.js API** - Gerenciamento backend
 
-```text
-Back-end:        Python, Node.js
-Front-end:       HTML, CSS, JavaScript
-Banco de dados:  SQLite, PostgreSQL, SQL
-Dados/BI:        Power BI
-Ferramentas:     Git/GitHub, VS Code, Linux (Ubuntu/Xubuntu)
-Outros:          Automação, testes e validações
-```
+## 🛠️ Linguagens & Especialidades
 
-## ⭐ Projetos em destaque
+| Linguagem | Uso Principal |
+|-----------|---------------|
+| **C/C++** | MATLAB, Arduino, IA conversacional |
+| **Java** | Aplicações web robustas (Spring Boot) |
+| **Python** | Automação testes, ML/AI |
+| **Node.js** | APIs robustas |
 
-### [Sistema_Cadastro_Cliente](https://github.com/glwydson/Sistema_Cadastro_Cliente)
-Sistema desktop de cadastro de clientes com interface gráfica.
-- Python + Tkinter + SQLite
-- CRUD + persistência local
-- Status: Concluído ✅
+## 🗄️ Banco & Infra
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
-### [cronograma-treinos](https://github.com/glwydson/cronograma-treinos) — [Demo](https://glwydson.github.io/cronograma-treinos/)
-Aplicação web para organizar e acompanhar cronogramas de treinos.
-- HTML/CSS/JS
-- Foco em simplicidade e usabilidade
-- Status: Ativo 🚀
+## 📋 Workflow & Tools
 
-### Consulta-AE (privado)
-Software de consulta inteligente de dados para uso em campo.
-- Python
-- Status: Em desenvolvimento 🚧
+| Ferramenta | Uso |
+|------------|-----|
+| **Miro** | Gestão Kanban projetos |
+| **Obsidian** | Documentação técnica/relatórios |
+| **Excalidraw** | Protótipos fluxos código |
+| **Figma** | Interfaces simples |
 
-## 📊 Estatísticas
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
 
+## 📊 Stats
 <div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=glwydson&show_icons=true&theme=default&hide_border=true&include_all_commits=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=glwydson&layout=compact&theme=default&hide_border=true)
-
+![Stats](https://github-readme-stats.vercel.app/api?username=glwydson&show_icons=true&theme=radical&bg_color=0D1117)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=glwydson&layout=compact&theme=radical&bg_color=0D1117)
 </div>
 
 ## 📫 Contato
+💼 [LinkedIn](https://linkedin.com/in/glwydson)
 
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-glwydson-181717?style=for-the-badge&logo=github)](https://github.com/glwydson)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Glaydson_Oliveira-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/glwydson)
-
-</div>
+---
+⭐ **Backend | C/C++ | Java | Python AI | Node APIs | PostgreSQL** - Full Workflow
