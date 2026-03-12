@@ -11,45 +11,39 @@
 ## 🚀 Projetos em destaque
 
 ### ✨ **ROTA-SPI**
-[![ROTA-SPI](https://github-readme-stats.vercel.app/api/pin/?username=glwydson&repo=ROTA-SPI&theme=radical&bg_color=0D1117)](https://github.com/glwydson/ROTA-SPI)
-**Spring Boot + PostgreSQL + Node.js** - Web robusta
+[![ROTA-SPI](https://github-readme-stats.vercel.app/api/pin/?username=glwydson&repo=ROTA-SPI&theme=radical&bg_color=0D1117)](https://github.com/glwydson/ROTA-SPI)  
+**Spring Boot + PostgreSQL + Node.js** - Aplicação web robusta
 
 ### 📅 **Cronograma de Treinos**
-[![Cronograma-Treinos](https://github-readme-stats.vercel.app/api/pin/?username=glwydson&repo=cronograma-treinos&theme=radical&bg_color=0D1117)](https://github.com/glwydson/cronograma-treinos)
-**Node.js API** - Backend gerenciamento
+[![Cronograma-Treinos](https://github-readme-stats.vercel.app/api/pin/?username=glwydson&repo=cronograma-treinos&theme=radical&bg_color=0D1117)](https://github.com/glwydson/cronograma-treinos)  
+**Node.js API** - Backend para gerenciamento
 
-## 🛠️ Linguagens & Especialidades
+## 🛠️ Linguagens & Tecnologias
 
-| Linguagem | Uso Principal |
+| Tecnologia | Uso Principal |
 |-----------|---------------|
-| **C/C++** | MATLAB, Arduino, IA conversacional |
-| **Java** | Web robustas (Spring Boot) |
-| **Python** | Testes, ML/AI automação |
-| **Node.js** | APIs robustas |
-
-## 🗄️ Banco & Infra
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+| **Java** | Desenvolvimento backend orientado a objetos |
+| **Spring Boot** | Construção de APIs e aplicações backend |
+| **Docker** | Conteinerização e padronização de ambientes |
+| **Postman** | Testes e validação de APIs |
+| **JavaScript** | Funcionalidades web e integração frontend/backend |
+| **HTML** | Estruturação de interfaces web |
+| **CSS** | Estilização de interfaces web |
 
 ## 📋 Workflow Completo
 
 | Categoria | Ferramentas |
 |-----------|-------------|
 | **Gestão** | Miro (Kanban) |
-| **Docs** | Obsidian (técnica/relatórios) |
-| **Design** | Excalidraw (fluxos código), Figma (UI) |
-| **API/DB** | **Postman** (validação APIs), **DBeaver** (PostgreSQL) |
+| **Docs** | Obsidian (documentação técnica e relatórios) |
+| **Design** | Excalidraw (fluxos e arquitetura), Figma (UI) |
+| **API/DB** | **Postman** (validação de APIs), **DBeaver** (PostgreSQL) |
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
-
-## 📊 Stats
-<div align="center">
-![Stats](https://github-readme-stats.vercel.app/api?username=glwydson&show_icons=true&theme=radical&bg_color=0D1117)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=glwydson&layout=compact&theme=radical&bg_color=0D1117)
-</div>
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
 
 ## 📫 Contato
 💼 [LinkedIn](https://linkedin.com/in/glwydson)
 
 ---
-⭐ **Backend Specialist | APIs | PostgreSQL | Full Workflow**
+⭐ **Backend Developer | Java | Spring Boot | APIs | Docker**
