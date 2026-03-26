@@ -25,7 +25,7 @@ public class Glaydson {
     String nome     = "Glaydson de Oliveira Araújo";
     String cidade   = "Manaus, Amazonas 🇧🇷";
     String[] cursos = {
-        "Engenharia Eletrônica (8° período)",
+        "Engenharia Eletrônica (7° período)",
         "Ciências da Computação (2° período)"
     };
     String foco     = "Backend Developer | Java & Spring Boot";
