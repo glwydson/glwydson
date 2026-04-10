@@ -25,7 +25,7 @@ const glaydson = {
   nome: "Glaydson de Oliveira Araújo",
   cidade: "Manaus, Amazonas - Brasil",
   formacao: [
-    "Engenharia Eletrônica (8º período)",
+    "Engenharia Eletrônica (7º período)",
     "Ciência da Computação (2º período)"
   ],
   cargo: "Desenvolvedor Fullstack Jr",
