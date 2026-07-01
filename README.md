@@ -20,15 +20,21 @@
 
 ## Sobre mim
 
-```javascript
-const glaydson = {
-  nome: "Glaydson de Oliveira Araújo",
-  cidade: "Manaus, Amazonas - Brasil",
-  formacao: [
-    "Engenharia Eletrônica (7º período)",
-    "Ciência da Computação (2º período)"
-  ],
-  cargo: "Desenvolvedor Fullstack Jr",
-  foco: "React.js, JavaScript, Python, APIs REST e bancos de dados",
-  status: "Disponível para oportunidades e colaboração em projetos"
-};
+```java
+import java.util.List;
+
+public class Main {
+    public static void main(String[] args) {
+        PessoaProfissional glaydson = new PessoaProfissional(
+                "Glaydson de Oliveira Araújo",
+                "Manaus, Amazonas - Brasil",
+                List.of("Ciência da Computação (3º período)"),
+                "Desenvolvedor Backend",
+                "Java, C/C++, Python, APIs REST e bancos de dados",
+                "Disponível para oportunidades e colaboração em projetos"
+        );
+
+        System.out.println(glaydson);
+    }
+}
+```
